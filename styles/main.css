@@ -8,6 +8,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Amatic SC', cursive;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -29,13 +31,13 @@ h1 {
 .startGame {
   margin: 20px 0 0 50px;
   border-radius: 10px;
-  width: 70px;
-  height: 30px;
-  background-color: wheat;
-  color: black;
-  font-size: 15px;
+  width: 80px;
+  height: 35px;
+  background-color: #ffeeca;
+  color: #005249;
+  font-size: 20px;
   font-weight: 600;
-  border: 1px solid black;
+  border: 2px solid #005249;
 }
 .game {
   width: 600px;
